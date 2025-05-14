@@ -1,0 +1,35 @@
+body {
+    background-color: lightcoral;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 li {
+    width: 400px;
+    height: 100px;
+}
+
+.title {
+    background-color: khaki;
+    color: black;
+    font-size: 50px;
+    margin: auto;
+    text-align: center;
+}
+
+.recipe-list {
+    margin: 50px auto;
+    list-style: none;
+    padding: 2px;
+    text-align: center;
+}
+
+.recipe-list li {
+    display: inline-block;
+    margin: 0 5px;
+}
+
+a {
+    font-size: 20px;
+    text-decoration: none;
+    margin: 10px
+}
