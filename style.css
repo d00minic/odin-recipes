@@ -25,11 +25,11 @@ h1 li {
 
 .recipe-list li {
     display: inline-block;
-    margin: 0 5px;
+    margin: 50px;
 }
 
 a {
     font-size: 20px;
     text-decoration: none;
-    margin: 10px
+    margin: 20px
 }
