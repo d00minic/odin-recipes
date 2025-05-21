@@ -1,0 +1,45 @@
+* {
+    line-height: 1.5;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: khaki;
+}
+
+img {
+    width: auto;
+    display: inline-block;
+    vertical-align: top;
+}
+
+a {
+    background-color: coral;
+    color: red;
+    text-decoration: none;
+    padding: 10px 12px;
+    display: inline-block;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+.title {
+    color: brown;
+    margin-top: 0;
+}
+
+.recipe {
+    width: 800px;
+    color: darkred;
+    margin: 20px auto;
+}
+
+.recipe-list {
+    padding: 20px;
+    display: inline-block;
+    width: 580px;
+    vertical-align: top;
+}
